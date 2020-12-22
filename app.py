@@ -19,7 +19,7 @@ def doPack():
     print ("FOLDERNAME IS " + folderNameVariable.get())
 
 root = tk.Tk()
-algorithmList = ["atlasLayout", "staggerPack","staggerPack"]
+algorithmList = ["atlasLayout", "staggerPack", "superPack"]
 
 root.title("Flipbook Packer")
 root.geometry("600x600")
