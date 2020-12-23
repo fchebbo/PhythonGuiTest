@@ -1,2 +1,2 @@
-# PhythonGuiTest
+# PythonGuiTest
 BRUH WE MAKING A PYTHON GUI
